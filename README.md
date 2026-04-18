@@ -30,11 +30,12 @@ Membuat aplikasi Flutter yang mengimplementasikan **PageView** beserta **Bottom 
 ## Screenshot
 
 ### Halaman 1 — PageView (Home)
-<img height="850" alt="Halaman PageView" src="home.png" />
+<img width="284" height="545" alt="Screenshot 2026-04-18 144604" src="https://github.com/user-attachments/assets/53f56584-1a14-4a57-a45d-71620f85f5b1" />
+
 
 
 ### Halaman 2 — Navigation Route (ListView)
-<img height="850" alt="Halaman ListView" src="listview.png" />
+<img width="256" height="547" alt="Screenshot 2026-04-18 144633" src="https://github.com/user-attachments/assets/759dd382-49a8-4322-874c-87409e0617e1" />
 
 ---
 
